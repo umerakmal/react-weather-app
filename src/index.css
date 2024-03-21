@@ -1,0 +1,8 @@
+.weatherContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.SearchBox {
+    margin-bottom: 25px;
+}
